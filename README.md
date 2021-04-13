@@ -1,6 +1,6 @@
-# kalkulator
+# kalkulator - instrukcja obsługi
 
-to jest prosty orijekt kalkulatora
+to jest prosty projekt kalkulatora
 
 Robimy go przy okazji nauki gita.
 
